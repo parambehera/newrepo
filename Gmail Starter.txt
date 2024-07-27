@@ -1,0 +1,7 @@
+Gmail nav logo - https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r5.png
+Right icons -
+calendar logo - https://www.gstatic.com/companion/icon_assets/calendar_2020q4_2x.png
+Yellow bulb logo - https://www.gstatic.com/companion/icon_assets/keep_2020q4v3_2x.png
+Tick logo - https://www.gstatic.com/companion/icon_assets/tasks_2021_2x.png
+avatar logo - https://www.gstatic.com/companion/icon_assets/contacts_2022_2x.png
++ logo - https://fonts.gstatic.com/s/i/googlematerialicons/add/v21/black-24dp/1x/gm_add_black_24dp.png
